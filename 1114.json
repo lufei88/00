@@ -7,6 +7,7 @@
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
 			"api": "csp_Douban",
+			"searchable": 0,
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
 		},
 		    {
