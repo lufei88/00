@@ -7,21 +7,16 @@
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
 			"api": "csp_Douban",
-			"searchable": 0
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json",
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
-		    {
-      "key": "配置中心",
-      "name": "配置｜中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
+		{
+			"key": "设置",
+			"name": "路飞网弹|设置",
+			"type": 3,
+			"api": "csp_HBconfig",
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+		},
 		{
 			"key": "网盘虎斑",
 			"name": "路飞|网盘",
@@ -37,9 +32,9 @@
 				"uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
 				"tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
 				"site": "http://103.45.162.207:20720/"
-			},
+			}，
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "景天",
 			"name": "🔥路飞|4K①",
@@ -47,7 +42,7 @@
 			"api": "csp_HBcms10Dou",
 			"ext": "https://zy.sh0o.cn/api.php/provide/vod/from/qq/",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "茂茂",
 			"name": "🔥路飞|4K②",
@@ -55,7 +50,7 @@
 			"api": "csp_HBcms10Dou",
 			"ext": "https://zy.sh0o.cn/api.php/provide/vod/from/mgtv/",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "至尊",
 			"name": "🔥路飞|4K③",
@@ -63,7 +58,7 @@
 			"api": "csp_AppZzun",
 			"ext": "YUhSMGNEb3ZMemd1Y1hGeGRIWXVkRzl3TDJGd2FTNXdhSEF2WVhCd0x5TWpJMmgwZEhBNkx5OTZlaTV4Y1hGMGRpNTBiM0FqSXlNeE1EQXdNQ01qSXpJMQ",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "紫萱",
 			"name": "🔥路飞|4K④",
@@ -172,7 +167,7 @@
 			"jar": "https://gitee.com/lufeix/00/raw/master/105.jar"
 		},
 		{
-			"key": "瓜子影视",
+			"key": "瓜子影视85",
 			"name": "🍀路飞|秒播@",
 			"type": 3,
 			"api": "csp_Gz360",
@@ -195,8 +190,7 @@
 				"主页url": "https://www.gzvod.cc/",
 				"分类url": "https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "csp_XBPQ_闪影",
@@ -212,8 +206,7 @@
 				"主页url": "https://www.shanyingshijie.com/",
 				"分类url": "https://www.shanyingshijie.com/vodshow/1-{area}-{by}-{calss}-国语-{lang}---{catepg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "天天",
@@ -609,7 +602,7 @@
 			"api": "csp_qiao2",
 			"playerType": 2,
 			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-		},
+		}，
 		{
 			"key": "柠檬",
 			"name": "🍀路飞|秒播⑨",
@@ -636,7 +629,7 @@
 			"api": "csp_NanGua",
 			"playerType": 2,
 			"ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-		},
+		}，
 		{
 			"key": "客星",
 			"name": "🍀路飞|秒播⑫",
@@ -686,8 +679,7 @@
 				"分类url": "https://www.yyxnjw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"线路数组": "hl-tabs-btn hl-slide-swiper&&</a>[替换:鱼鱼影院>>🐬路飞影视🐬]",
 				"分类": "剧集$lianxuju#电影$dianying#综艺$zongyi#动漫$dongman"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "麻花",
@@ -702,8 +694,7 @@
 				"分类url": "https://www.mahuage1.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
 				"分类": "电影&电视剧&综艺&动漫",
 				"分类值": "1&2&3&4"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "路飞6662",
@@ -718,8 +709,7 @@
 				"线路数组": "text-muted text-center visible-xs&&</p>[排序:线路3>线路2>线路1]",
 				"分类url": "https://www.jxchyq.com/vsqqtp/{cateid}-{area}-{by}-{calss}-{lang}-{letter}---{catepg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "3456ys",
@@ -732,8 +722,7 @@
 				"播放数组": "myui-content__list sort-list clearfix\"&&</ul>",
 				"分类url": "https://3456ys.com/vodshow/{cateId}--------{catePg}---.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "cjzy_360资源",
@@ -759,14 +748,14 @@
 				"科幻片",
 				"恐怖片",
 				"惊悚片",
-				"悬疑片",
-				"犯罪片",
+				"悬疑片"，
+				"犯罪片"，
 				"剧情片",
 				"战争片",
-				"家庭篇",
+				"家庭篇"，
 				"记录片",
-				"历史片",
-				"动漫片",
+				"历史片"，
+				"动漫片"，
 				"大陆综艺",
 				"港台综艺"
 			]
@@ -787,7 +776,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "https://jihulab.com/8886666/00/-/raw/main/js/88影网.json"
-		},
+		}，
 		{
 			"key": "量子2",
 			"name": "🍁路飞|速播⑩",
@@ -839,7 +828,7 @@
 				"筛选": "1",
 				"倒序": "1"
 			}
-		},
+		}，
 		{
 			"key": "csp_看一看广",
 			"name": "🍁路飞|速播⑰",
@@ -859,7 +848,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://jihulab.com/8886666/00/-/raw/main/js/海兔影院.json"
-		},
+		}，
 		{
 			"key": "鱼鱼",
 			"name": "🍁路飞|速播⑵",
@@ -869,7 +858,7 @@
 				"分类url": "https://www.yyxnjw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"分类": "剧集$lianxuju#电影$dianying#综艺$zongyi#动漫$dongman"
 			}
-		},
+		}，
 		{
 			"key": "北川",
 			"name": "🍁路飞|速播⑺",
@@ -974,26 +963,26 @@
 			"url": "http://yy.1xiaohui.xyz/addons/lvdoubox/api.index?id=11&url=",
 			"ext": {
 				"flag": [
-					"qq",
-					"腾讯",
+					"qq"，
+					"腾讯"，
 					"qiyi",
 					"爱奇艺",
-					"奇艺",
+					"奇艺"，
 					"youku",
 					"优酷",
 					"sohu",
 					"搜狐",
-					"letv",
-					"乐视",
+					"letv"，
+					"乐视"，
 					"mgtv",
 					"芒果",
-					"tnmb",
+					"tnmb"，
 					"seven",
 					"bilibili",
 					"1905"
 				]
 			}
-		},
+		}，
 		{
 			"name": "📦路飞4k②",
 			"type": 1,
@@ -1005,70 +994,70 @@
 			"url": "http://8.155.50.80/xiayexk.php?url=",
 			"ext": {
 				"flag": [
-					"qq",
+					"qq"，
 					"腾讯",
 					"qiyi",
 					"爱奇艺",
 					"奇艺",
-					"youku",
-					"优酷",
+					"youku"，
+					"优酷"，
 					"sohu",
-					"搜狐",
-					"letv",
+					"搜狐"，
+					"letv"，
 					"乐视",
-					"mgtv",
+					"mgtv"，
 					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
+					"tnmb"，
+					"seven"，
+					"bilibili"，
 					"1905"
 				]
 			}
-		},
+		}，
 		{
 			"name": "📦路飞4k④",
 			"type": 1,
 			"url": "http://122.228.85.203:7979/api/?key=2467d6b3c2803e864860e8af3edc2e30&url=",
 			"ext": {
 				"flag": [
-					"腾讯",
+					"腾讯"，
 					"qq"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
 				}
 			}
-		},
+		}，
 		{
 			"name": "🌎路飞VIP①",
 			"type": 0,
 			"url": "https://jx.m3u8.tv/jiexi/?url=",
 			"ext": {
 				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
+					"qq"，
+					"腾讯"，
+					"qiyi"，
+					"爱奇艺"，
 					"奇艺",
 					"youku",
 					"优酷",
-					"mgtv",
-					"芒果",
-					"imgo",
-					"letv",
+					"mgtv"，
+					"芒果"，
+					"imgo"，
+					"letv"，
 					"乐视",
 					"pptv",
 					"PPTV",
-					"sohu",
-					"bilibili",
+					"sohu"，
+					"bilibili"，
 					"哔哩哔哩",
 					"哔哩"
-				],
+				]，
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
 				}
 			}
-		},
+		}，
 		{
 			"name": "🌎路飞VIP②",
 			"type": 0,
@@ -1330,65 +1319,65 @@
 		{
 			"host": "www.sharenice.net",
 			"rule": [
-				"sovv.qianpailive.com",
+				"sovv.qianpailive.com"，
 				"vid="
 			]
-		},
+		}，
 		{
 			"host": "hdmoli.com",
 			"rule": [
 				".m3u8"
 			]
-		},
+		}，
 		{
 			"host": "https://live.bilibili.com",
 			"rule": [
-				"bilivideo.com/live-bvc",
+				"bilivideo.com/live-bvc"，
 				"index.m3u8?expires="
 			]
-		},
+		}，
 		{
 			"host": "m.ysxs8.vip",
 			"rule": [
-				"xmcdn.com",
+				"xmcdn.com"，
 				"m4a"
 			]
-		},
+		}，
 		{
 			"host": "www.agemys.cc",
 			"rule": [
-				"cdn-tos",
+				"cdn-tos"，
 				"obj/tos-cn"
 			]
-		},
+		}，
 		{
 			"host": "https://www.fun4k.com",
 			"rule": [
-				"https://hd.ijycnd.com/play",
+				"https://hd.ijycnd.com/play"，
 				"index.m3u8"
 			]
-		},
+		}，
 		{
 			"host": "www.007ts.me",
 			"rule": [
-				"hls.pchj.net",
+				"hls.pchj.net"，
 				".m3u8"
 			]
-		},
+		}，
 		{
 			"host": "zjmiao.com",
 			"rule": [
-				"play.videomiao.vip/API.php",
-				"time=",
-				"key=",
+				"play.videomiao.vip/API.php"，
+				"time="，
+				"key="，
 				"path="
 			]
 		}
-	],
+	]，
 	"ads": [
-		"wan.51img1.com",
-		"iqiyi.hbuioo.com",
-		"vip.ffzyad.com",
+		"wan.51img1.com"，
+		"iqiyi.hbuioo.com"，
+		"vip.ffzyad.com"，
 		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
 	]
 }
