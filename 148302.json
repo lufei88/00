@@ -167,7 +167,7 @@
 			"jar": "https://gitee.com/lufeix/00/raw/master/105.jar"
 		},
 		{
-			"key": "瓜子影视",
+			"key": "瓜子影视666",
 			"name": "🍀路飞|秒播@",
 			"type": 3,
 			"api": "csp_Gz360",
@@ -190,8 +190,7 @@
 				"主页url": "https://www.gzvod.cc/",
 				"分类url": "https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "csp_XBPQ_闪影",
@@ -207,21 +206,22 @@
 				"主页url": "https://www.shanyingshijie.com/",
 				"分类url": "https://www.shanyingshijie.com/vodshow/1-{area}-{by}-{calss}-国语-{lang}---{catepg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "天天",
 			"name": "❤️路飞|弹幕①",
 			"type": 3,
 			"api": "csp_HBtiantianv3",
-			"ext": "http://v.rbotv.cn"
+			"ext": "http://v.rbotv.cn",
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
 		{
 			"key": "苹果",
 			"name": "❤️路飞|弹幕②",
 			"type": 3,
-			"api": "csp_HBPguo"
+			"api": "csp_HBPguo",
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
 		{
 			"key": "短剧",
@@ -231,7 +231,8 @@
 			"ext": {
 				"分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
 				"分类url": "https://www.duanjuwang.cc/vodtype/{cateId}/page/{catePg}.html"
-			}
+			},
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
 		{
 			"key": "o站影视",
@@ -249,8 +250,7 @@
 				"分类url": "https://enlienli.link/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
 				"分类": "电影$1#电视剧$2#动漫$4#综艺$3#里番绅士区$5",
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空||空"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "浪酷影视",
@@ -642,7 +642,7 @@
 			"ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
 		},
 		{
-			"key": "csp_XBPQ_瓜子影视",
+			"key": "csp_XBPQ_1瓜子影视",
 			"name": "🍁路飞|速播①",
 			"type": 3,
 			"api": "csp_XBPQ",
@@ -681,8 +681,7 @@
 				"分类url": "https://www.yyxnjw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"线路数组": "hl-tabs-btn hl-slide-swiper&&</a>[替换:鱼鱼影院>>🐬路飞影视🐬]",
 				"分类": "剧集$lianxuju#电影$dianying#综艺$zongyi#动漫$dongman"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "麻花",
@@ -697,8 +696,7 @@
 				"分类url": "https://www.mahuage1.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
 				"分类": "电影&电视剧&综艺&动漫",
 				"分类值": "1&2&3&4"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "路飞6662",
@@ -713,8 +711,7 @@
 				"线路数组": "text-muted text-center visible-xs&&</p>[排序:线路3>线路2>线路1]",
 				"分类url": "https://www.jxchyq.com/vsqqtp/{cateid}-{area}-{by}-{calss}-{lang}-{letter}---{catepg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "3456ys",
@@ -727,8 +724,7 @@
 				"播放数组": "myui-content__list sort-list clearfix\"&&</ul>",
 				"分类url": "https://3456ys.com/vodshow/{cateId}--------{catePg}---.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
 		},
 		{
 			"key": "cjzy_360资源",
