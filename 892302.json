@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitee.com/lufeix/00/raw/master/lufeiceshiniu.jar",
+	"spider": "https://gitee.com/lufeix/00/raw/master/lufeixinceshi.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
 	"sites": [
 		{
@@ -7,8 +7,7 @@
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
 			"api": "csp_Douban",
-			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
 		},
 		{
 			"key": "设置",
