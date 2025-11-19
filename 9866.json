@@ -8,13 +8,6 @@
 			"type": 3,
 			"api": "csp_Douban"
 		},
-		    {
-      "key": "导航",
-      "name": "豆瓣|导航",  //分类滑倒最后有弹幕设置，同弹幕小窗的设置。 挂在第一个可以不用搜索触发
-      "type": 3,
-      "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTCR.jar",
-      "api": "csp_Douban"
-    },
 		{
 			"key": "设置",
 			"name": "路飞网弹|设置",
