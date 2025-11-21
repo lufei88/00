@@ -6,9 +6,22 @@
 			"key": "豆瓣",
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
-	        "jar": "https://gitee.com/lufeix/00/raw/master/hubandanm_ac.jar",
+	        "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTCR.jar",
 			"api": "csp_Douban"
 		},
+		    {
+      "key": "配置中心",
+      "name": "配置｜中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
 		{
 			"key": "设置",
 			"name": "路飞网弹|设置",
