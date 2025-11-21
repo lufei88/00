@@ -1,11 +1,12 @@
 {
-	"spider": "https://gitee.com/lufeix/00/raw/master/lufeixinceshi668.jar",
+	"spider": "https://gitee.com/lufeix/00/raw/master/lufei.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
 	"sites": [
 		{
 			"key": "豆瓣",
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
+	        "jar": "https://gitee.com/lufeix/00/raw/master/hubandanm_ac.jar",
 			"api": "csp_Douban"
 		},
 		{
