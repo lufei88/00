@@ -7,7 +7,7 @@
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
 	        "jar": "https://gitee.com/lufeix/00/raw/master/hubandanm_ac.jar",
-			"api": "csp_Douban1"
+			"api": "csp_Douban"
 		},
 		{
 			"key": "设置",
