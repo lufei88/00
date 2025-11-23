@@ -48,10 +48,25 @@
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "UTF-8",
 				"主页url": "https://www.shanyingshijie.com/",
-				"分类url": "https://www.shanyingshijie.com/vodshow/1-{area}-{by}-{calss}-国语-{lang}---{catepg}---{year}.html",
+				"分类url": "https://www.shanyingshijie.com/vodshow/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-			},
-			"jar": "https://jihulab.com/666888/88/-/raw/main/jar/naikan.jar"
+			}
+		}，
+				{
+			"key": "csp_XBPQ_测试66",
+			"name": "🍀路飞|测试",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.ylys.tv/",
+				"分类url": "https: //www.ylys.tv/vodshow/{cateid}-{area}-{by}--{lang}----{catepg}---{year}/",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
 		},
 		{
 			"key": "o站影视",
