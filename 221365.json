@@ -180,9 +180,9 @@
 			"ext": {
 				"分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
 				"分类url": "https://www.duanjuwang.cc/vodtype/{cateId}/page/{catePg}.html"
-			},
+			}，
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "o站影视",
 			"name": "🍀路飞|秒播⑥",
@@ -200,7 +200,7 @@
 				"分类": "电影$1#电视剧$2#动漫$4#综艺$3#里番绅士区$5",
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空||空"
 			}
-		},
+		}，
 		{
 			"key": "浪酷影视",
 			"name": "🍀路飞|秒播⑦",
@@ -212,13 +212,13 @@
 			"ext": {
 				"url": "http://v.lkuys.cn"
 			}
-		},
+		}，
 		{
 			"key": "奇优4K影视",
 			"name": "🍀路飞|秒播⑧",
 			"type": 3,
 			"api": "csp_Qiyou"
-		},
+		}，
 		{
 			"key": "瓜子影视6",
 			"name": "🍀路飞|秒播⑨",
@@ -227,14 +227,14 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
+		}，
 		{
 			"key": "荐片1",
 			"name": "🍀路飞|秒播⑩",
 			"api": "csp_Jianpian",
 			"type": 3,
 			"ext": "https://api.ztcgi.com"
-		},
+		}，
 		{
 			"key": "永乐影视",
 			"name": "🍀路飞|秒播⑪",
@@ -253,7 +253,7 @@
 			"name": "🍀路飞|秒播⑫",
 			"type": 3,
 			"api": "csp_Qiyou"
-		},
+		}，
 		{
 			"key": "热播影视",
 			"name": "🍀路飞|秒播⑬",
@@ -265,7 +265,7 @@
 			"ext": {
 				"url": "http://v.rbotv.cn"
 			}
-		},
+		}，
 		{
 			"key": "私人",
 			"name": "🍀路飞|秒播⑭",
@@ -273,7 +273,7 @@
 			"changeable": 1,
 			"api": "csp_AppYsV2",
 			"ext": "https://v.catcs.cc/api.php/v1.vod"
-		},
+		}，
 		{
 			"key": "丫丫",
 			"name": "🍀路飞|秒播⑮",
@@ -285,7 +285,7 @@
 				"dataKey": "qkxnwkfjwpcnwycl",
 				"dataIv": "qkxnwkfjwpcnwycl"
 			}
-		},
+		}，
 		{
 			"key": "旗星",
 			"name": "🍀路飞|秒播⑯",
@@ -298,7 +298,7 @@
 				"dataIv": "2SWSPFxugBLPPOKo",
 				"version": "120"
 			}
-		},
+		}，
 		{
 			"key": "数字",
 			"name": "🍀路飞|秒播⑰",
@@ -310,7 +310,7 @@
 				"dataKey": "VwsHxkCViDXEExWa",
 				"dataIv": "VwsHxkCViDXEExWa"
 			}
-		},
+		}，
 		{
 			"key": "茉莉",
 			"name": "🍀路飞|秒播⑱",
@@ -334,7 +334,7 @@
 				"dataKey": "ab4e9a421675f14b",
 				"dataIv": "ab4e9a421675f14b"
 			}
-		},
+		}，
 		{
 			"key": "稀饭",
 			"name": "🍀路飞|秒播⑳",
@@ -524,7 +524,7 @@
 				"dataKey": "8191A7F47B37882F",
 				"dataIv": "8191A7F47B37882F"
 			}
-		},
+		}，
 		{
 			"key": "小猪",
 			"name": "💧路飞|迅播⑬",
@@ -537,7 +537,7 @@
 				"dataIv": "seb5tq9mykp2w9ry",
 				"ua": "okhttp/3.10.0"
 			}
-		},
+		}，
 		{
 			"key": "云云4K",
 			"name": "💧路飞|迅播⑭",
@@ -562,7 +562,7 @@
 				"dataKey": "1111111111111111",
 				"dataIv": "1111111111111111"
 			}
-		},
+		}，
 		{
 			"key": "金牌影视",
 			"name": "💧路飞|迅播⑯",
@@ -724,32 +724,32 @@
 			"api": "https://360zy.com/api.php/provide/vod",
 			"playUrl": "",
 			"categories": [
-				"国产剧",
-				"国产动漫",
-				"香港剧",
+				"国产剧"，
+				"国产动漫"，
+				"香港剧"，
 				"台湾剧",
 				"欧美剧",
-				"日韩动漫",
-				"NBA",
-				"短片",
-				"西部片",
-				"综艺片",
+				"日韩动漫"，
+				"NBA"，
+				"短片"，
+				"西部片"，
+				"综艺片"，
 				"动漫片",
 				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"惊悚片",
-				"悬疑片",
-				"犯罪片",
-				"剧情片",
-				"战争片",
-				"家庭篇",
-				"记录片",
-				"历史片",
-				"动漫片",
-				"大陆综艺",
+				"喜剧片"，
+				"爱情片"，
+				"科幻片"，
+				"恐怖片"，
+				"惊悚片"，
+				"悬疑片"，
+				"犯罪片"，
+				"剧情片"，
+				"战争片"，
+				"家庭篇"，
+				"记录片"，
+				"历史片"，
+				"动漫片"，
+				"大陆综艺"，
 				"港台综艺"
 			]
 		},
@@ -995,71 +995,26 @@
       "name": "自定：请先设置",
       "type": 1,
       "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
-    },
-    {
-      "name": "晴天4K Q1026038872",
-      "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-    },
-    {
-      "name": "虎斑XM",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
-      "ext": {
-        "header": {
-          "Accept": "*/*",
-          "Origin": "https://jx.xmflv.com"
-        }
-      }
-    },
-    {
-      "name": "虎斑szy",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
-    },
-    {
-      "name": "虎斑mt4K",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
-    },
-    {
-      "name": "虎斑HJ",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
-    },
-    {
-      "name": "虎斑WS",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
-    },
-    {
-      "name": "虎斑AB",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-    },
-    {
-      "name": "虎斑V6",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
     }
-  ],
+
+  ]，
   "flags": [
     "youku",
-    "qq",
+    "qq"，
     "QQ",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "pptv",
-    "PPTV",
-    "mgtv",
+    "iqiyi"，
+    "qiyi"，
+    "letv"，
+    "sohu"，
+    "pptv"，
+    "PPTV"，
+    "mgtv"，
     "wasu",
-    "bilibili",
-    "m1905",
-    "seven",
+    "bilibili"，
+    "m1905"，
+    "seven"，
     "m78"
-  ],
+  ]，
 	"lives": [
 		{
 			"name": "livenew",
@@ -1069,138 +1024,138 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
-	],
+	]，
 	"doh": [
 		{
 			"name": "Google",
 			"url": "https://dns.google/dns-query",
 			"ips": [
-				"8.8.4.4",
+				"8.8.4.4"，
 				"8.8.8.8"
 			]
-		},
+		}，
 		{
 			"name": "Cloudflare",
 			"url": "https://cloudflare-dns.com/dns-query",
 			"ips": [
-				"1.1.1.1",
-				"1.0.0.1",
-				"2606:4700:4700::1111",
+				"1.1.1.1"，
+				"1.0.0.1"，
+				"2606:4700:4700::1111"，
 				"2606:4700:4700::1001"
 			]
-		},
+		}，
 		{
 			"name": "AdGuard",
 			"url": "https://dns.adguard.com/dns-query",
 			"ips": [
-				"94.140.14.140",
+				"94.140.14.140"，
 				"94.140.14.141"
 			]
-		},
+		}，
 		{
 			"name": "DNSWatch",
 			"url": "https://resolver2.dns.watch/dns-query",
 			"ips": [
-				"84.200.69.80",
+				"84.200.69.80"，
 				"84.200.70.40"
 			]
-		},
+		}，
 		{
 			"name": "Quad9",
 			"url": "https://dns.quad9.net/dns-quer",
 			"ips": [
-				"9.9.9.9",
+				"9.9.9.9"，
 				"149.112.112.112"
 			]
 		}
-	],
+	]，
 	"rules": [
 		{
 			"name": "海外看",
 			"hosts": [
 				"haiwaikan"
-			],
+			]，
 			"regex": [
 				"#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+"
 			]
-		},
+		}，
 		{
 			"name": "暴风嗅探",
 			"hosts": [
 				"bfzy"
-			],
+			]，
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 			]
-		},
+		}，
 		{
 			"name": "星星嗅探",
 			"hosts": [
 				"aws.ulivetv.net"
-			],
+			]，
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 			]
-		},
+		}，
 		{
 			"name": "量子嗅探",
 			"hosts": [
-				"vip.lz",
-				"hd.lz",
+				"vip.lz"，
+				"hd.lz"，
 				"v.cdnlz"
-			],
+			]，
 			"regex": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"，
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
 			]
-		},
+		}，
 		{
 			"name": "非凡嗅探",
 			"hosts": [
-				"vip.ffzy",
+				"vip.ffzy"，
 				"hd.ffzy"
-			],
+			]，
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
 			]
-		},
+		}，
 		{
 			"name": "火山嗅探",
 			"hosts": [
 				"huoshan.com"
-			],
+			]，
 			"regex": [
 				"item_id="
 			]
-		},
+		}，
 		{
 			"name": "抖音嗅探",
 			"hosts": [
 				"douyin.com"
-			],
+			]，
 			"regex": [
 				"is_play_url="
 			]
-		},
+		}，
 		{
 			"name": "農民嗅探",
 			"hosts": [
 				"toutiaovod.com"
-			],
+			]，
 			"regex": [
 				"video/tos/cn"
 			]
-		},
+		}，
 		{
 			"name": "爱酷",
 			"hosts": [
 				"cdn.json.icu"
-			],
+			]，
 			"regex": [
 				"#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"
 			]
-		},
+		}，
 		{
 			"name": "米来",
 			"hosts": [
