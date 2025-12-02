@@ -90,7 +90,7 @@
 			"api": "csp_HBT4",
 			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "归安",
 			"name": "🔥路飞|4K⑧",
@@ -98,7 +98,7 @@
 			"api": "csp_HBT4",
 			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "腾讯视频",
 			"name": "🔥路飞|4K⑨",
@@ -124,7 +124,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"jar": "https://gitee.com/lufeix/00/raw/master/105.jar"
-		},
+		}，
 		{
 			"key": "csp_XBPQ_瓜影视",
 			"name": "🍀路飞|秒播①",
@@ -156,7 +156,7 @@
 				"分类url": "https://www.shanyingshijie.com/vodshow/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
 			}
-		},
+		}，
 		{
 			"key": "天天",
 			"name": "🍀路飞|秒播③",
@@ -164,14 +164,14 @@
 			"api": "csp_HBtiantianv3",
 			"ext": "http://v.rbotv.cn",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "苹果",
 			"name": "🍀路飞|秒播④",
 			"type": 3,
 			"api": "csp_HBPguo",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "短剧",
 			"name": "🍀路飞|秒播⑤",
@@ -359,7 +359,7 @@
 				"dataIv": "123456789StarAni",
 				"ua": "okhttp/3.10.0 BDYS/109.0.0.8"
 			}
-		},
+		}，
 		{
 			"key": "五八",
 			"name": "💧路飞|迅播②",
@@ -383,7 +383,7 @@
 				"dataKey": "uI1TkPJC8B46AyN3",
 				"dataIv": "uI1TkPJC8B46AyN3"
 			}
-		},
+		}，
 		{
 			"key": "瑞奇",
 			"name": "💧路飞|迅播④",
@@ -405,7 +405,7 @@
 				"url": "http://app.789dd.cn",
 				"name": "火猫影视"
 			}
-		},
+		}，
 		{
 			"key": "番茄短剧",
 			"name": "💧路飞|迅播⑥",
@@ -448,7 +448,7 @@
 				"排序值": "time&hits&up&score",
 				"筛选": "1"
 			}
-		},
+		}，
 		{
 			"key": "咖啡",
 			"name": "💧路飞|迅播⑦",
@@ -474,7 +474,7 @@
 				"dataIv": "ca94b06ca359d80e",
 				"version": "120"
 			}
-		},
+		}，
 		{
 			"key": "开心",
 			"name": "💧路飞|迅播⑨",
@@ -487,7 +487,7 @@
 				"dataIv": "ca94b06ca3c7d80e",
 				"ua": "okhttp/3.10.0"
 			}
-		},
+		}，
 		{
 			"key": "仓鼠4K",
 			"name": "💧路飞|迅播⑩",
@@ -500,7 +500,7 @@
 				"dataIv": "da61247f5b662597",
 				"version": "120"
 			}
-		},
+		}，
 		{
 			"key": "鲸鱼",
 			"name": "💧路飞|迅播⑪",
@@ -550,7 +550,7 @@
 				"dataIv": "staraugust123456",
 				"version": "120"
 			}
-		},
+		}，
 		{
 			"key": "八天",
 			"name": "💧路飞|迅播⑮",
@@ -569,14 +569,14 @@
 			"type": 3,
 			"api": "csp_Jpys",
 			"ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-		},
+		}，
 		{
 			"key": "采集之王",
 			"name": "🔥采集|合集",
 			"type": 3,
 			"api": "https://9877.kstore.space/TVBox/JS/drpy2.min.js",
 			"ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"
-		},
+		}，
 		{
 			"key": "80S",
 			"name": "💧路飞|迅播⑰",
@@ -586,7 +586,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
+		}，
 		{
 			"key": "巧技二",
 			"name": "💧路飞|迅播⑱",
@@ -595,7 +595,7 @@
 			"api": "csp_qiao2",
 			"playerType": 2,
 			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-		},
+		}，
 		{
 			"key": "柠檬",
 			"name": "💧路飞|迅播⑲",
@@ -604,7 +604,7 @@
 			"api": "csp_Nmvod",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-		},
+		}，
 		{
 			"key": "优质",
 			"name": "💧路飞|迅播⑳",
@@ -760,7 +760,7 @@
 			"api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
 			"ext": "https://raw.kkgithub.com/cyalias/mytvs-github/dc67b07e1331e0021ff08d6c6f98ee1be276ed0a/tvboxqq/潇洒/JS/YKSP.js",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "芒果视频",
 			"name": "🔰路飞|果果",
@@ -768,7 +768,7 @@
 			"api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
 			"ext": "https://raw.kkgithub.com/cyalias/mytvs-github/dc67b07e1331e0021ff08d6c6f98ee1be276ed0a/tvboxqq/潇洒/JS/MGSP.js",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "爱奇艺",
 			"name": "🔰路飞|艺艺",
@@ -776,7 +776,7 @@
 			"api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
 			"ext": "https://raw.kkgithub.com/cyalias/mytvs-github/dc67b07e1331e0021ff08d6c6f98ee1be276ed0a/tvboxqq/潇洒/JS/AQY.js",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "360_spider",
 			"name": "🔰路飞|360",
@@ -787,7 +787,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"playUrl": "https://jx.m3u8.tv/jiexi/?url="
-		},
+		}，
 		{
 			"key": "腾讯视频5",
 			"name": "🏆路飞|4K③",
@@ -795,7 +795,7 @@
 			"api": "https://raw.kkgithub.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
 			"ext": "https://raw.kkgithub.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
 			"jar": "https://gitee.com/lufeix/00/raw/master/ceshi122.jar"
-		},
+		}，
 		{
 			"key": "腾讯视频666",
 			"name": "🏆路飞|4K④",
@@ -803,7 +803,7 @@
 			"api": "http://yy.1xiaohui.xyz/uploads/tvbox/lib/drpy2.min.js",
 			"ext": "http://yy.1xiaohui.xyz/uploads/tvbox/lib/tx.js",
 			"jar": "https://gitee.com/lufeix/00/raw/master/105.jar"
-		},
+		}，
 		{
 			"key": " 蜂鸟 ",
 			"name": "🍁路飞|速播⑨",
@@ -813,14 +813,14 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://jihulab.com/8886666/00/-/raw/main/js/洋葱影视.json"
-		},
+		}，
 		{
 			"key": "88影视网广",
 			"name": "🍁路飞|速播⑩",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "https://jihulab.com/8886666/00/-/raw/main/js/88影网.json"
-		},
+		}，
 		{
 			"key": "量子2",
 			"name": "🍁路飞|速播⑪",
@@ -830,7 +830,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
+		}，
 		{
 			"key": "vidhub卡",
 			"name": "🍁路飞|速播⑫",
@@ -844,7 +844,7 @@
 				"分类url": "https://vidhub2.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;e0",
 				"分类": "剧集$2#电影$1#综艺$3#动漫$4"
 			}
-		},
+		}，
 		{
 			"key": "365视频广",
 			"name": "🍁路飞|速播⑬",
@@ -892,7 +892,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://jihulab.com/8886666/00/-/raw/main/js/海兔影院.json"
-		},
+		}，
 		{
 			"key": "鱼鱼",
 			"name": "🍁路飞|速播⑰",
@@ -902,7 +902,7 @@
 				"分类url": "https://www.yyxnjw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"分类": "剧集$lianxuju#电影$dianying#综艺$zongyi#动漫$dongman"
 			}
-		},
+		}，
 		{
 			"key": "北川",
 			"name": "🍁路飞|速播⑱",
@@ -927,7 +927,7 @@
 				"分类": "电影&电视剧&综艺&动漫",
 				"分类值": "1&2&3&4"
 			}
-		},
+		}，
 		{
 			"key": "4K23",
 			"name": "🍁路飞|速播⑲",
@@ -980,24 +980,88 @@
 			}
 		}
 	],
-  "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "自定：请先设置",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
-    }
-
-  ]，
+	"parses": [
+		{
+			"name": "聚★",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "并★",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "询★",
+			"type": 2,
+			"url": "Sequence"
+		},
+		{
+			"name": "自定：请先设置",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
+		},
+		{
+			"name": "🌎路飞VIP①",
+			"type": 0,
+			"url": "https://jx.m3u8.tv/jiexi/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺"，
+					"奇艺"，
+					"youku"，
+					"优酷"，
+					"mgtv"，
+					"芒果"，
+					"imgo"，
+					"letv"，
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "🌎路飞VIP②",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"imgo",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		}
+	],
 	"lives": [
 		{
 			"name": "livenew",
