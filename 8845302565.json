@@ -19,7 +19,7 @@
 		},
 				{
 			"key": "设置2",
-			"name": "路飞网弹|设置",
+			"name": "路飞网弹|设置2",
 			"type": 3,
 			"api": "csp_HBconfig1",
 			"jar": "https://gitee.com/lufeix/00/raw/master/lufeice123.jar"
