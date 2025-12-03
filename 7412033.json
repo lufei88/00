@@ -17,13 +17,6 @@
 			"api": "csp_HBconfig",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
-				{
-			"key": "设置2",
-			"name": "路飞网弹|设置2",
-			"type": 3,
-			"api": "csp_HBconfig1",
-			"jar": "https://gitee.com/lufeix/00/raw/master/lufeice123.jar"
-		},
 		{
 			"key": "网盘虎斑",
 			"name": "路飞|网盘",
