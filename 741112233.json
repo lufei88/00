@@ -67,7 +67,7 @@
 				"site": "http://103.45.162.207:20720"
 			},
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "小猫",
 			"name": "小猫|自定",
@@ -75,7 +75,7 @@
 			"api": "csp_HBcms10",
 			"ext": "https://vs.okcdn100.top/api.php/provide/vod/",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "tenteng",
 			"name": "落日|自定",
@@ -83,7 +83,7 @@
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/腾腾.js",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "youyou",
 			"name": "日出|自定",
@@ -91,7 +91,7 @@
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/优优.js",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "qiqi",
 			"name": "晚霞|自定",
@@ -99,7 +99,7 @@
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/奇奇.js",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "mangmang",
 			"name": "朝阳|自定",
@@ -107,14 +107,14 @@
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "馆源",
 			"name": "馆源|自定",
 			"type": 3,
 			"api": "csp_HB360",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "永乐",
 			"name": "永乐|弹幕",
@@ -122,7 +122,7 @@
 			"api": "csp_HBPQ",
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/永乐影视.json",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "push_agent",
 			"name": "手机｜推送",
@@ -132,7 +132,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
+		}，
 		{
 			"key": "专用",
 			"name": "测试|专用",
@@ -140,39 +140,80 @@
 			"api": "csp_HBxLei8",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		}
-	],
+	]，
 	"parses": [
 		{
 			"name": "解析聚合",
 			"type": 3,
 			"url": "Demo"
-		},
+		}，
 		{
 			"name": "Json轮询",
 			"type": 2,
 			"url": "Sequence"
-		},
+		}，
 		{
 			"name": "自定：请先设置",
 			"type": 1,
 			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
 		},
 		{
-			"name": "虎斑AB",
+			"name": "📦路飞4k①",
+			"type": 1,
+			"url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+		},
+		{
+			"name": "📦路飞4k②",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
+			"ext": {
+				"header": {
+					"Accept": "*/*",
+					"Origin": "https://jx.xmflv.com"
+				}
+			}
+		},
+		{
+			"name": "📦路飞4k③",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
+		},
+		{
+			"name": "📦路飞4k④",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
+		},
+		{
+			"name": "📦路飞4k⑤",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
+		},
+		{
+			"name": "📦路飞4k⑥",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
+		},
+		{
+			"name": "📦路飞4k⑦",
 			"type": 1,
 			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
+		},
+		{
+			"name": "📦路飞4k⑧",
+			"type": 1,
+			"url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
 		}
 	],
 	"flags": [
-		"youku",
-		"qq",
-		"QQ",
-		"iqiyi",
-		"qiyi",
-		"letv",
-		"sohu",
-		"pptv",
-		"PPTV",
+		"youku"，
+		"qq"，
+		"QQ"，
+		"iqiyi"，
+		"qiyi"，
+		"letv"，
+		"sohu"，
+		"pptv"，
+		"PPTV"，
 		"mgtv",
 		"wasu",
 		"bilibili",
@@ -228,123 +269,123 @@
 				"suonizy"
 			],
 			"regex": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"，
+				"#EXTINF.*?\\s+.*?p1ayer.*?\\.ts"，
 				"#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
 			]
-		},
+		}，
 		{
 			"name": "快看",
 			"hosts": [
 				"kuaikan"
-			],
+			]，
 			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY"，
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"，
 				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 			]
-		},
+		}，
 		{
 			"name": "一起看广告",
 			"hosts": [
 				"yqk88"
-			],
+			]，
 			"regex": [
-				"18.4",
-				"15.1666",
-				"16.5333",
+				"18.4"，
+				"15.1666"，
+				"16.5333"，
 				"#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
 			]
-		},
+		}，
 		{
 			"name": "磁力广告",
 			"hosts": [
 				"magnet"
-			],
+			]，
 			"regex": [
-				"更多",
-				"请访问",
-				"example",
-				"社 區",
+				"更多"，
+				"请访问"，
+				"example"，
+				"社 區"，
 				"x u u",
-				"直 播",
-				"更 新",
-				"社 区",
-				"有趣",
-				"有 趣",
-				"英皇体育",
+				"直 播"，
+				"更 新"，
+				"社 区"，
+				"有趣"，
+				"有 趣"，
+				"英皇体育"，
 				"全中文AV在线",
-				"澳门皇冠赌场",
-				"哥哥快来",
+				"澳门皇冠赌场"，
+				"哥哥快来"，
 				"美女荷官",
-				"裸聊",
-				"新片首发",
+				"裸聊"，
+				"新片首发"，
 				"UUE29"
 			]
-		},
+		}，
 		{
 			"name": "火山嗅探",
 			"hosts": [
 				"huoshan.com"
-			],
+			]，
 			"regex": [
 				"item_id="
 			]
-		},
+		}，
 		{
 			"name": "抖音嗅探",
 			"hosts": [
 				"douyin.com"
-			],
+			]，
 			"regex": [
 				"is_play_url="
 			]
-		},
+		}，
 		{
 			"name": "农民嗅探",
 			"hosts": [
 				"toutiaovod.com"
-			],
+			]，
 			"regex": [
 				"video/tos/cn"
 			]
 		}
-	],
+	]，
 	"doh": [
 		{
 			"name": "Google",
 			"url": "https://dns.google/dns-query",
 			"ips": [
-				"8.8.4.4",
+				"8.8.4.4"，
 				"8.8.8.8"
 			]
-		},
+		}，
 		{
 			"name": "Cloudflare",
 			"url": "https://cloudflare-dns.com/dns-query",
 			"ips": [
-				"1.1.1.1",
+				"1.1.1.1"，
 				"1.0.0.1",
-				"2606:4700:4700::1111",
+				"2606:4700:4700::1111"，
 				"2606:4700:4700::1001"
 			]
-		},
+		}，
 		{
 			"name": "AdGuard",
 			"url": "https://dns.adguard.com/dns-query",
 			"ips": [
-				"94.140.14.140",
+				"94.140.14.140"，
 				"94.140.14.141"
 			]
-		},
+		}，
 		{
 			"name": "DNSWatch",
 			"url": "https://resolver2.dns.watch/dns-query",
 			"ips": [
-				"84.200.69.80",
+				"84.200.69.80"，
 				"84.200.70.40"
 			]
-		},
+		}，
 		{
 			"name": "Quad9",
 			"url": "https://dns.quad9.net/dns-quer",
@@ -353,7 +394,7 @@
 				"149.112.112.112"
 			]
 		}
-	],
+	]，
 	"ijk": [
 		{
 			"group": "软解码",
@@ -362,17 +403,17 @@
 					"category": 4,
 					"name": "opensles",
 					"value": "0"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "overlay-format",
 					"value": "842225234"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "framedrop",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "soundtouch",
@@ -442,72 +483,72 @@
 					"category": 4,
 					"name": "opensles",
 					"value": "0"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "overlay-format",
 					"value": "842225234"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "framedrop",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "soundtouch",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "start-on-prepared",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 1,
 					"name": "http-detect-range-support",
 					"value": "0"
-				},
+				}，
 				{
 					"category": 1,
 					"name": "fflags",
 					"value": "fastseek"
-				},
+				}，
 				{
 					"category": 2,
 					"name": "skip_loop_filter",
 					"value": "48"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "reconnect",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "enable-accurate-seek",
 					"value": "0"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "mediacodec",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "mediacodec-auto-rotate",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "mediacodec-handle-resolution-change",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 4,
 					"name": "mediacodec-hevc",
 					"value": "1"
-				},
+				}，
 				{
 					"category": 1,
 					"name": "dns_cache_timeout",
@@ -515,10 +556,10 @@
 				}
 			]
 		}
-	],
+	]，
 	"ads": [
-		"wan.51img1.com",
-		"iqiyi.hbuioo.com",
+		"wan.51img1.com"，
+		"iqiyi.hbuioo.com"，
 		"vip.ffzyad.com"
 	]
 }
