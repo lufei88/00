@@ -115,6 +115,22 @@
 			"api": "csp_HB360",
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
+				{
+			"key": "腾讯视频8899",
+			"name": "🔥路飞|4K⑮",
+			"type": 3,
+			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+			"ext": "https://raw.kkgithub.com/lufei88/00/main/lib/腾讯视频.js",
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+		},
+		{
+			"key": "腾讯视频",
+			"name": "🔥路飞|4K⑯",
+			"type": 3,
+			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+			"ext": "https://raw.kkgithub.com/cyalias/mytvs-github/dc67b07e1331e0021ff08d6c6f98ee1be276ed0a/tvboxqq/潇洒/JS/TXSP.js",
+			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+		},
 		{
 			"key": "永乐",
 			"name": "永乐|弹幕",
