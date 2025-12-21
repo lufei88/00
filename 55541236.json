@@ -7,14 +7,6 @@
 			"name": "🔥路飞视频┃🕕更新",
 			"type": 3,
 			"api": "csp_Douban",
-			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
-		},
-		{
-			"key": "豆瓣11",
-			"name": "🔥路飞视频11┃🕕更新",
-			"type": 3,
-			"api": "csp_Douban1",
 			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
 		},
 		{
@@ -29,64 +21,56 @@
 			"name": "🔥路飞|4K①",
 			"type": 3,
 			"api": "csp_HBcms10Dou",
-			"ext": "https://zy.sh0o.cn/api.php/provide/vod/from/qq/",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "https://zy.sh0o.cn/api.php/provide/vod/from/qq/"
 		},
 		{
 			"key": "茂茂",
 			"name": "🔥路飞|4K②",
 			"type": 3,
 			"api": "csp_HBcms10Dou",
-			"ext": "https://zy.sh0o.cn/api.php/provide/vod/from/mgtv/",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "https://zy.sh0o.cn/api.php/provide/vod/from/mgtv/"
 		},
 		{
 			"key": "至尊",
 			"name": "🔥路飞|4K③",
 			"type": 3,
 			"api": "csp_AppZzun",
-			"ext": "YUhSMGNEb3ZMemd1Y1hGeGRIWXVkRzl3TDJGd2FTNXdhSEF2WVhCd0x5TWpJMmgwZEhBNkx5OTZlaTV4Y1hGMGRpNTBiM0FqSXlNeE1EQXdNQ01qSXpJMQ",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "YUhSMGNEb3ZMemd1Y1hGeGRIWXVkRzl3TDJGd2FTNXdhSEF2WVhCd0x5TWpJMmgwZEhBNkx5OTZlaTV4Y1hGMGRpNTBiM0FqSXlNeE1EQXdNQ01qSXpJMQ"
 		},
 		{
 			"key": "紫萱",
 			"name": "🔥路飞|4K④",
 			"type": 3,
 			"api": "csp_AppZzun",
-			"ext": "YUhSMGNEb3ZMekl1Y1hGeGRIWXVkRzl3TDJGd2FTNXdhSEF2WVhCd0x5TWpJMmgwZEhBNkx5OTZlaTV4Y1hGMGRpNTBiM0FqSXlNeE1EQXdNQ01qSXpJMQ==",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "YUhSMGNEb3ZMekl1Y1hGeGRIWXVkRzl3TDJGd2FTNXdhSEF2WVhCd0x5TWpJMmgwZEhBNkx5OTZlaTV4Y1hGMGRpNTBiM0FqSXlNeE1EQXdNQ01qSXpJMQ=="
 		},
 		{
 			"key": "薄心",
 			"name": "🔥路飞|4K⑤",
 			"type": 3,
 			"api": "csp_HBT4",
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ==",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ=="
 		},
 		{
 			"key": "甜橙",
 			"name": "🔥路飞|4K⑥",
 			"type": 3,
 			"api": "csp_HBT4",
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
 		},
 		{
 			"key": "竹生",
 			"name": "🔥路飞|4K⑦",
 			"type": 3,
 			"api": "csp_HBT4",
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09"
 		},
 		{
 			"key": "归安",
 			"name": "🔥路飞|4K⑧",
 			"type": 3,
 			"api": "csp_HBT4",
-			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
 		},
 		{
 			"key": "瓜子影视22",
@@ -135,15 +119,13 @@
 			"name": "🍀路飞|秒播③",
 			"type": 3,
 			"api": "csp_HBtiantianv3",
-			"ext": "http://v.rbotv.cn",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "http://v.rbotv.cn"
 		},
 		{
 			"key": "苹果",
 			"name": "🍀路飞|秒播④",
 			"type": 3,
-			"api": "csp_HBPguo",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"api": "csp_HBPguo"
 		},
 		{
 			"key": "短剧",
@@ -153,8 +135,7 @@
 			"ext": {
 				"分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
 				"分类url": "https://www.duanjuwang.cc/vodtype/{cateId}/page/{catePg}.html"
-			},
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			}
 		},
 		{
 			"key": "o站影视",
@@ -319,63 +300,55 @@
 			"name": "🔥路飞|4K⑨",
 			"type": 3,
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-			"ext": "http://103.45.162.207:25252/仅供测试/lib/腾腾.js",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/腾腾.js"
 		},
 		{
 			"key": "youyou1",
 			"name": "🔥路飞|4K⑩",
 			"type": 3,
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-			"ext": "http://103.45.162.207:25252/仅供测试/lib/优优.js",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/优优.js"
 		},
 		{
 			"key": "qiqi1",
 			"name": "🔥路飞|4K⑪",
 			"type": 3,
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-			"ext": "http://103.45.162.207:25252/仅供测试/lib/奇奇.js",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/奇奇.js"
 		},
 		{
 			"key": "mangmang1",
 			"name": "🔥路飞|4K⑫",
 			"type": 3,
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-			"ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js"
 		},
 		{
 			"key": "馆源1",
 			"name": "🔥路飞|4K⑬",
 			"type": 3,
-			"api": "csp_HB360",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"api": "csp_HB360"
 		},
 		{
 			"key": "小猫1",
 			"name": "🔥路飞|4K⑭",
 			"type": 3,
 			"api": "csp_HBcms10",
-			"ext": "https://vs.okcdn100.top/api.php/provide/vod/",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "https://vs.okcdn100.top/api.php/provide/vod/"
 		},
 		{
 			"key": "腾讯视频8899",
 			"name": "🔥路飞|4K⑮",
 			"type": 3,
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-			"ext": "https://raw.kkgithub.com/lufei88/00/main/lib/腾讯视频.js",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "https://raw.kkgithub.com/lufei88/00/main/lib/腾讯视频.js"
 		},
 		{
 			"key": "腾讯视频",
 			"name": "🔥路飞|4K⑯",
 			"type": 3,
 			"api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-			"ext": "https://raw.kkgithub.com/cyalias/mytvs-github/dc67b07e1331e0021ff08d6c6f98ee1be276ed0a/tvboxqq/潇洒/JS/TXSP.js",
-			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
+			"ext": "https://raw.kkgithub.com/cyalias/mytvs-github/dc67b07e1331e0021ff08d6c6f98ee1be276ed0a/tvboxqq/潇洒/JS/TXSP.js"
 		},
 		{
 			"key": "星星",
