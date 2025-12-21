@@ -13,8 +13,7 @@
 			"key": "设置",
 			"name": "路飞网弹|设置",
 			"type": 3,
-			"api": "csp_HBconfig",
-			"jar": "https://gitee.com/lufeix/00/raw/master/lufeixx.jar"
+			"api": "csp_HBconfig"
 		},
 		{
 			"key": "景天",
