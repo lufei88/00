@@ -11,6 +11,13 @@
 			"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar"
 		},
 		{
+			"key": "豆瓣11",
+			"name": "🔥路飞视频11┃🕕更新",
+			"type": 3,
+			"api": "csp_Douban1",
+			"ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
+		},
+		{
 			"key": "设置",
 			"name": "路飞网弹|设置",
 			"type": 3,
